@@ -1,1 +1,1 @@
-![](./profile-3d-contrib/profile-session-animate.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
